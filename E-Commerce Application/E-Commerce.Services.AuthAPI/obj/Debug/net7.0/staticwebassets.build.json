@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hgKn2qa1kDkQ+C4xyApd4oHW5+6wVBkfiJQpCGTQYro=",
+  "Source": "E-Commerce.Services.AuthAPI",
+  "BasePath": "_content/E-Commerce.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
